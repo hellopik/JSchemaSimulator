@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JSchemaSimulator/static/css/main.fe1dd2e6.chunk.css",
+    "main.js": "/JSchemaSimulator/static/js/main.c451cd2f.chunk.js",
+    "main.js.map": "/JSchemaSimulator/static/js/main.c451cd2f.chunk.js.map",
+    "runtime-main.js": "/JSchemaSimulator/static/js/runtime-main.450e8784.js",
+    "runtime-main.js.map": "/JSchemaSimulator/static/js/runtime-main.450e8784.js.map",
+    "static/js/2.b2fa6f68.chunk.js": "/JSchemaSimulator/static/js/2.b2fa6f68.chunk.js",
+    "static/js/2.b2fa6f68.chunk.js.map": "/JSchemaSimulator/static/js/2.b2fa6f68.chunk.js.map",
+    "static/js/3.991123af.chunk.js": "/JSchemaSimulator/static/js/3.991123af.chunk.js",
+    "static/js/3.991123af.chunk.js.map": "/JSchemaSimulator/static/js/3.991123af.chunk.js.map",
+    "index.html": "/JSchemaSimulator/index.html",
+    "static/css/main.fe1dd2e6.chunk.css.map": "/JSchemaSimulator/static/css/main.fe1dd2e6.chunk.css.map",
+    "static/js/2.b2fa6f68.chunk.js.LICENSE.txt": "/JSchemaSimulator/static/js/2.b2fa6f68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.450e8784.js",
+    "static/js/2.b2fa6f68.chunk.js",
+    "static/css/main.fe1dd2e6.chunk.css",
+    "static/js/main.c451cd2f.chunk.js"
+  ]
+}
